@@ -1,29 +1,33 @@
-# BI – Aprimoramento da Gestão Pública
+# 📊 BI – Aprimoramento da Gestão Pública
 
-Este repositório reúne os materiais, análises e dashboards desenvolvidos
-durante o curso **Aprimoramento da Gestão Pública**, com foco na aplicação
-de **Business Intelligence (BI)** para apoio à tomada de decisão no setor público.
-
-O projeto tem como objetivo organizar os estudos e demonstrar, de forma prática,
-como dados podem ser utilizados para melhorar a eficiência, a transparência
-e o planejamento da gestão pública.
+> 📌 Repositório com materiais, análises e dashboards desenvolvidos durante o curso  
+> **Aprimoramento da Gestão Pública**, com foco em Business Intelligence para apoio à tomada de decisão.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🚀 Visão Geral
 
-- Aplicar conceitos de BI na gestão pública
-- Desenvolver dashboards analíticos em Power BI
-- Explorar dados para apoiar decisões estratégicas
-- Organizar estudos e aprendizados de forma estruturada
+Este projeto reúne estudos e dashboards que demonstram como dados podem ser usados para melhorar:
+- eficiência,
+- transparência, e
+- planejamento na gestão pública.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Aplicar conceitos de BI na gestão pública  
+- Desenvolver dashboards analíticos no Power BI  
+- Explorar dados públicos e gerar insights úteis  
+- Organizar aprendizados de forma estruturada
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Power BI
-- Excel
-- Dados públicos e materiais educacionais
+- **Power BI**
+- **Excel**
+- Bases de dados públicas (quando disponíveis)
 
 ---
 
@@ -34,9 +38,6 @@ BI-Aprimoramento-Gestao-Publica/
 │
 ├── dashboards/     # Dashboards desenvolvidos no Power BI
 ├── data/           # Bases de dados utilizadas (quando disponíveis)
-├── docs/           # Documentação, anotações e materiais de apoio
+├── docs/           # Documentações e materiais de apoio
 ├── certificados/   # Certificados relacionados ao curso
 └── README.md       # Descrição geral do projeto
-
-
-
