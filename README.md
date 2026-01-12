@@ -30,7 +30,7 @@ e o planejamento da gestão pública.
 ## 📁 Estrutura do Repositório
 ### BI-Aprimoramento-Gestao-Publica/
 ---
-├── dashboards/ # Arquivos e informações sobre os dashboards em Power BI
+├── ### dashboards/ # Arquivos e informações sobre os dashboards em Power BI
 ---
 ├── data/ # Bases de dados utilizadas (quando disponíveis)
 ---
