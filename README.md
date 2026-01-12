@@ -28,17 +28,15 @@ e o planejamento da gestão pública.
 ---
 
 ## 📁 Estrutura do Repositório
-## BI-Aprimoramento-Gestao-Publica/
----
-├── dashboards/ # Arquivos e informações sobre os dashboards em Power BI
----
-├── data/ # Bases de dados utilizadas (quando disponíveis)
----
-├── docs/ # Documentações, anotações e materiais de apoio
----
-├── certificates/ # Certificados relacionados ao curso
----
-└── README.md
----
+
+```text
+BI-Aprimoramento-Gestao-Publica/
+│
+├── dashboards/     # Dashboards desenvolvidos no Power BI
+├── data/           # Bases de dados utilizadas (quando disponíveis)
+├── docs/           # Documentação, anotações e materiais de apoio
+├── certificados/   # Certificados relacionados ao curso
+└── README.md       # Descrição geral do projeto
+
 
 
